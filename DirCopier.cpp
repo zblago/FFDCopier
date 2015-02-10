@@ -1,3 +1,4 @@
+#define UNICODE
 #include "DirCopier.h"
 #include "StringUtil.h"
 
